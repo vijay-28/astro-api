@@ -1,0 +1,27 @@
+{
+  "name": "astro-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijay-28/astro-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vijay-28/astro-api/issues"
+  },
+  "homepage": "https://github.com/vijay-28/astro-api#readme",
+  "dependencies": {
+    "astronomy-engine": "^2.1.19",
+    "ephemeris": "^2.2.0",
+    "express": "^5.2.1",
+    "swisseph": "^0.5.17"
+  }
+}
